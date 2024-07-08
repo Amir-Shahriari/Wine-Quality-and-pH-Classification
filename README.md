@@ -1,2 +1,2 @@
-This repo is the final stage of my data analysis and ML training on two different datasets related to Wines, in these practices i tried a variety of algorithm and tried to clean, normalise and transform the data
+This notebook is the final stage of my data analysis and ML training on two different datasets related to Wines, in these practices i tried a variety of algorithm and tried to clean, normalise and transform the data
 to achieve the best accuracy i could get, i also evaluate the models after training with different methods to ensure highest accuracy possible that i could achieve with different approaches.
